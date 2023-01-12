@@ -20,7 +20,7 @@ body{
 
  .models, .cats, .about-me{
     flex: 1;
-
+display: flex;
  }
 
  .footer{
