@@ -11,6 +11,6 @@ body{
      padding:10px; 
  }
 
- .footer{ 
-
+ .content{
+    flex: 1;
  }
