@@ -5,4 +5,5 @@ body{
  *{
     border-style: solid;
     border-color: red;
+    padding:5px;
  }
