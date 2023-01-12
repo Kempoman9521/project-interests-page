@@ -8,9 +8,15 @@ body{
  *{
     border-style: solid;
     border-color: red;
-     padding:10px; 
+     /* padding:10px;  */
  }
 
  .content{
     flex: 1;
+ }
+
+ .footer{
+    display: flex;
+    justify-content: center;
+    margin: 0;
  }
