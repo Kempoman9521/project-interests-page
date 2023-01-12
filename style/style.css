@@ -8,7 +8,7 @@ body{
  *{
     border-style: solid;
     border-color: red;
-     /* padding:10px;  */
+   
  }
 
  .content{
@@ -20,4 +20,9 @@ body{
     display: flex;
     justify-content: center;
     margin: 0;
+ }
+
+ .models, .cats, .about-me{
+    flex: 1;
+
  }
