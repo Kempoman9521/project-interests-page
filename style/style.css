@@ -24,14 +24,11 @@ body{
 display: flex;
 flex-direction: column;
 justify-content:space-around;
+align-items: center;
  }
 
 .about-me{
     justify-content: start;
-}
- 
-.model-pics{ 
-    
 }
 
 img{
