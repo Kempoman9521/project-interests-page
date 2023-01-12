@@ -9,7 +9,8 @@ body{
     border-style: solid;
     border-color: red;
     box-sizing: border-box;
-   
+    padding: 10px
+
  }
 
  .content{
@@ -23,6 +24,10 @@ body{
 display: flex;
 flex-direction: column;
  }
+.model-pics{
+;
+}
+
 
  .footer{
     display: flex;
