@@ -35,9 +35,7 @@ justify-content:space-around;
 }
 
 img{
-width: 100px;
-
-
+    width:100px;
 }
 
  .footer{
@@ -45,3 +43,4 @@ width: 100px;
     justify-content: center;
     margin: 0;
  }
+
