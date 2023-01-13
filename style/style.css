@@ -7,10 +7,10 @@ body{
 }
 
  *{
-    border-style: solid;
+    /* border-style: solid;
     border-color: red;
     box-sizing: border-box;
-      /* padding: 10px   */
+      padding: 10px   */
 
  }
 
