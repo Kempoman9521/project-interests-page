@@ -33,9 +33,19 @@ align-items: center;
 }
 
 img{
-    width:100%;
+    width: 150px;
     border-radius: 10px;
 }
+
+.cat-pic, .model-pic{
+    display: flex;
+  padding: 10%;
+    
+
+
+ }
+
+
 
  .footer{
     display: flex;
@@ -43,8 +53,4 @@ img{
     margin: 0;
  }
 
- .cat-pic{
-    width: 200px;
-    display: flex;
-    padding: 
- }
+
