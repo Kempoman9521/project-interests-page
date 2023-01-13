@@ -3,7 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     margin:0;
-    
+    background-color: #13005A;
 }
 
  *{
@@ -34,6 +34,7 @@ align-items: center;
 
 .about-me{
     justify-content: start;
+    background-color: #1C82AD;
 }
 
 img{
@@ -44,6 +45,7 @@ img{
 .cat-pic, .model-pic{
     display: flex;
   padding: 10%;
+  background-color:#00337C;
     
 
 
